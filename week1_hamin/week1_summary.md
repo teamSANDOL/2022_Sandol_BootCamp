@@ -15,15 +15,15 @@
 -git add: 파일이나 디렉토리를 인덱스에 추가하는데 사용하는 명령어<br/>
 -git commit: 인덱스에 추가 된 파일이나 폴더의 내용을 저장소에 쓸 때 사용하는 명령어<br/>
 -git branch: 브랜치에 대해 다양한 작업을 수행하기 위해 사용하는 명령어<br/>
-_git branch [branch-name]: 브랜치 만들기<br/>
-_git branch: 브랜치 목록보기<br/>
-_git branch -d [branch-name]: 지정한 브랜치 삭제<br/>
-_git checkout: 로컬저장소에 브랜치를 전환 할 때 사용하는 명령어<br/>
+ git branch [branch-name]: 브랜치 만들기<br/>
+ git branch: 브랜치 목록보기<br/>
+ git branch -d [branch-name]: 지정한 브랜치 삭제<br/>
+ git checkout: 로컬저장소에 브랜치를 전환 할 때 사용하는 명령어<br/>
 -git clone: 기존 원격 저장소를 로컬에 다운로드하기 위하여 사용하는 명령어<br/>
 -git remote: 원격 저장소를 조작하는데 사용하는 명령<br/>
-_git remote: 원격 저장소의 이름 목록을 표시<br/>
-_git remote -v: 원격 저장소에 대한 자세한 목록보기<br/>
-_git remote add [name] [url]: 원격 저장소를 추가<br/>
-_git remote rm [name]: 원격 저장소를 제거<br/>
+ git remote: 원격 저장소의 이름 목록을 표시<br/>
+ git remote -v: 원격 저장소에 대한 자세한 목록보기<br/>
+ git remote add [name] [url]: 원격 저장소를 추가<br/>
+ git remote rm [name]: 원격 저장소를 제거<br/>
 -git merge: 현재 브랜치에 다른 지점에서 변경 사항을 병합하는데 사용하는 명령어<br/>
 -git pull: 원격 브랜치의 변경사항을 캡처하기 위해 사용하는 명령어<br/>
